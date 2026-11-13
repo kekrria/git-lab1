@@ -1,1 +1,5 @@
-Я изучаю Git и Python
+
+Я изучаю Git, Python и C#
+
+
+
